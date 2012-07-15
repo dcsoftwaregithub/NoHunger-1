@@ -1,0 +1,8 @@
+name: NoHunger
+main: me.dcsoft.nohunger.NoHunger
+author: Joshua James
+version: 1.0
+commands:
+    nhreload:
+        description: The reloads the plugin.
+        usage: /nhreload
